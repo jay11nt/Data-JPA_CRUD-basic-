@@ -25,6 +25,7 @@ public class Student
 		this.name = name;
 		this.address = address;
 	}
+	//getter setters
 	public int getId() {
 		return id;
 	}
